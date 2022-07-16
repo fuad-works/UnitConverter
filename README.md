@@ -7,7 +7,7 @@ Simple Laravel, UnitConverter App
 Download the content of UnitConvert <br/>
 Run the command: 
 ```
-composer install t 
+composer install
 ```
 to install all dependencies specified in composer.json file
 then run the command 
