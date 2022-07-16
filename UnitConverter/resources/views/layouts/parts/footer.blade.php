@@ -6,11 +6,11 @@
 
         <!-- Linkedin -->
         <a class="btn btn-primary rounded-circle float-left" style="background-color: #0082ca;" target="_blank"
-            href="#!" role="button"><i class="fab fa-linkedin-in"></i></a>
+            href="https://www.linkedin.com/in/fuad-mehawish/" role="button"><i class="fab fa-linkedin-in"></i></a>
 
         <!-- Github -->
         <a class="btn btn-primary rounded-circle float-right" style="background-color: #333333;" target="_blank"
-            href="#!" role="button"><i class="fab fa-github"></i></a>
+            href="https://github.com/fuad-works" role="button"><i class="fab fa-github"></i></a>
 
     </div>
     <script src="{{ asset('assets/js/bootstrap.bundle.min.js') }}"></script>
