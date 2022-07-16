@@ -14,8 +14,9 @@ then run the command
 ```
 php artisan migrate:fresh --seed 
 ```
-to set the database with basic data
-#screenshots
+to set the database with basic data, After setting db info on the .env file
+
+# Screenshots
 
 ## Home Page 
 ![S1](./screenshots/1_home_page.png "S1")<br />
